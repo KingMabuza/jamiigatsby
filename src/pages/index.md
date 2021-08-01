@@ -1,21 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: ONE AFRICA ONE ECONOMY
+image: /img/trade2.jpg
+heading: Brief Background
+subheading: Building The Dream Of A One Africa
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why AfCFTA
+  description: >-
+    The AfCFTA is the African continent’s most ambitious integration initiative,
+    embedded in the Agenda 2063 of the African Union, whose main objective is to
+    create a single continental market for goods and services with free movement
+    of people and investments, thus expanding intra-African trade across the
+    continent, enhancing competitiveness and supporting economic transformation
+    in Africa.
+            The AfCFTA is expected to increase intra-Africa trade from an existing level of about 13% to 25% or more through better harmonisation and coordination of trade liberalisation. This will be driven forward by the complementary Single African Air Transport Market and the Protocol on Free Movement of Persons.
+description: "The African Union's 18th Ordinary Session of Heads of State and
+  Government, convened in Addis Ababa, Ethiopia in January 2012, decided to
+  construct a Continental Free Trade Area (CFTA) by an estimated date of 2017.
+  The Summit also supported the BIAT (Balancing Intra-Africa Trade) Action Plan,
+  which contains seven clusters: trade policy, trade facilitation, productive
+  capacity, and market access, The CFTA will bring together fifty-four African
+  countries with a combined population of over one billion people and a combined
+  GDP of more than $3.4 trillion dollars."
 intro:
   blurbs:
     - image: /img/coffee.png
